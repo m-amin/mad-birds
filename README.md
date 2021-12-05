@@ -1,2 +1,2 @@
-# mad-birds
+# Mad Birds 
 Unity game Mad Birds
